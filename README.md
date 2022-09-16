@@ -13,6 +13,6 @@
 [![](https://visitcount.itsvg.in/api?id=nana-qilin&icon=3&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Idk why you would, but if you want to, you can send me money!
-  [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a%C2%A0coffee-red?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/nanaqilin) 
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nanaqilin) 
   
 Fuck you paypal 💞
